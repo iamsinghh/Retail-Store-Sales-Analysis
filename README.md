@@ -119,7 +119,7 @@ Based on the analysis, **Vrinda Store should focus its marketing efforts on adul
 
 ### **Aman Singh**
 
-Data Analyst | Excel | SQL | Power BI | Python
+Data Analyst | Excel | SQL | Power BI
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-singh-851434284)
