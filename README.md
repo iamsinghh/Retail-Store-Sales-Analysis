@@ -1,5 +1,5 @@
 <h1 align="center">
-Vrinda Store Sales Analysis
+Multi-Channel Retail Sales & Inventory Operations
 </h1>
 
 
@@ -11,7 +11,7 @@ Vrinda Store Sales Analysis
 </p>
 
 <p align="center">
-Built using <b>Microsoft Excel</b> to analyze <b>Vrinda Store's 2022 sales performance</b> and transform raw transactional data into <b>actionable business insights</b>.
+Built using <b>Microsoft Excel</b> to analyze retail store's 2022 sales performance and transform raw transactional data into actionable business insights.
 </p>
 
 ---
@@ -26,9 +26,9 @@ Built using <b>Microsoft Excel</b> to analyze <b>Vrinda Store's 2022 sales perfo
 
 ## 📌 Project Summary
 
-Vrinda Store is an Indian fashion retailer selling products across multiple e-commerce platforms including **Amazon, Flipkart, Myntra, Ajio, Meesho, and Nalli**.
+This project is focused on an Indian fashion retailer selling products across multiple e-commerce platforms including **Amazon, Flipkart, Myntra, Ajio, Meesho, and Nalli**.
 
-This project analyzes **one year of sales data** to uncover **customer purchasing behaviour**, **regional performance**, **sales trends**, and **channel effectiveness**. Using **Microsoft Excel**, raw transactional data was transformed into an **interactive dashboard** that enables stakeholders to monitor business performance and support **data-driven decision-making**.
+The project analyzes **one year of sales data** to uncover **customer purchasing behaviour**, **regional performance**, **sales trends**, and **channel effectiveness**. Using **Microsoft Excel**, raw transactional data was transformed into an **interactive dashboard** that enables stakeholders to monitor business performance and support **data-driven decision-making**.
 
 ---
 
@@ -97,7 +97,7 @@ Business Insights & Recommendations
 
 ## 💼 Business Recommendation
 
-Based on the analysis, **Vrinda Store should focus its marketing efforts on adult women aged 30–49 living in Maharashtra, Karnataka, and Uttar Pradesh through high-performing sales channels such as Amazon and Myntra.** This customer segment contributes the largest share of overall sales and represents the greatest opportunity for future revenue growth.
+Based on the analysis, **the retail store should focus its marketing efforts on adult women aged 30–49 living in Maharashtra, Karnataka, and Uttar Pradesh through high-performing sales channels such as Amazon and Myntra.** This customer segment contributes the largest share of overall sales and represents the greatest opportunity for future revenue growth.
 
 ---
 
